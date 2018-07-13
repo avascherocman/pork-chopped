@@ -1,19 +1,19 @@
-body {
-    background: linear-gradient(to top, #ff0066 0%, #ff99cc 100%);
-   }
-#pig{
-    width:100px;
-    height:auto;
-    display:block;
-    margin:auto;
-}
-h1 {
-    color: #9d41f4;
-    font-family: 'Pacifico', cursive;
-   }
-h2{
-    color: goldenrod;
-    font-family: "Amatic SC"; cursive;
-   }
-   
-   
+    body {
+        background: linear-gradient(to top, #ff0066 0%, #ff99cc 100%);
+    }
+    #pig{
+        width:100px;
+        height:auto;
+        display:block;
+        margin:auto;
+    }
+    h1 {
+        color: #9d41f4;
+        font-family: 'Pacifico', cursive;
+    }
+    h2{
+        color: goldenrod;
+        font-family: "Amatic SC"; cursive;
+    }
+    
+    

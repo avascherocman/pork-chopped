@@ -5,11 +5,10 @@ var enemy;
 var enemyImage;
 var backgroundImage;
 
-
 function preload() {
-  playerImage = loadImage("http://pngimg.com/uploads/frying_pan/frying_pan_PNG8358.png");
-  enemyImage = loadImage("pan.png");
-  backgroundImage = loadImage("farm.jpg");
+  playerImage = loadImage("https://i.imgur.com/N5uCbDu.png");
+  enemyImage = loadImage("https://i.imgur.com/OdL0XPt.png");
+  backgroundImage = loadImage("https://i.imgur.com/aKQOg3G.png");
 }
 
 function setup() {
